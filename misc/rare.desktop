@@ -2,7 +2,7 @@
 Name=Rare
 Type=Application
 Categories=Games;Multimedia;
-Icon=rare
+Icon=Rare
 Exec=rare
 Comment=A GUI for legendary, an open source replacement for Epic Games Launcher
 Terminal=false
